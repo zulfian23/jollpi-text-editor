@@ -1,0 +1,44 @@
+Copyright (c) 2010 Zulfian  <fianmyung@gmail.com>
+
+Release notes:
+
+- Jollpi Version 2.1.2
+  * fixed problem when using Python 2.6, because differences in directory
+  * bug fix when loading some image for icon, line mark, and about dialog.
+  * change the file installer for uninstall process
+
+- Jollpi Version 2.1.1
+
+  * fixed problem when checking tab and saving file routine
+  * problem with change highlighting style fixed
+
+- Jollpi Version 2.1.0
+
+  * Tab system
+  * Page setup support
+
+- Jollpi Version 1.1.0
+
+  * Create new file
+  * Open file
+  * Save file
+  * Save as file
+  * Print file
+  * Close file
+  * Quit program
+  * Undo/redo
+  * Cut/copy/paste/select all/delete
+  * Find
+  * Find next
+  * Find previous
+  * Replace
+  * Go to spesific line
+  * Change Wrap mode
+  * Change Highlight style
+  * Enable auto indent
+  * Show line numbers
+  * Show line marks
+  * Show right margin
+  * Change familiy, style, or size for font
+  * Help docs
+  * About box
