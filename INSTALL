@@ -20,6 +20,7 @@ to install Jollpi:
 
 $ tar xjf jollpi-2.1.2.tar.bz2
 $ cd jollpi-2.1.2
+$ chmod + x install.sh -i
 $ ./install.sh -i
 
 to uninstall Jollpi:
