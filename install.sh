@@ -1,6 +1,6 @@
 #!/bin/bash
 # Installer
-# Copyright (c) 2010 Zulfian <fianmyung@gmail.com>
+# Copyright (c) 2010 Zulfian
 # license : GPL
 
 app_name='jollpi'
