@@ -28,41 +28,42 @@
 
 ## ⌨️ Keyboard Shortcuts
 
-Action | Shortcut
-New | Ctrl+N
-Open | Ctrl+O
-Save | Ctrl+S
-Save As | Ctrl+Shift+S
-Print | Ctrl+P
-Quit | Ctrl+Q
-Undo / Redo | Ctrl+Z / Ctrl+Shift+Z
-Cut / Copy / Paste | Ctrl+X / Ctrl+C / Ctrl+V
-Select All / Delete | Ctrl+A / Delete
-Find / Replace | Ctrl+F / Ctrl+R
-Find Next / Prev | F3 / Shift+F3
-Go to Line | Ctrl+G
-Toggle Wrap | -
-Auto Indent | F8
-Line Numbers | F11
-Line Marks | F9
-Right Margin | F7
-Select Font | F6
-Help / About | F1 / -
-
-Insert key toggles between Insert and Overwrite mode.
+| Action                 | Shortcut           |
+|------------------------|--------------------|
+| **New Document**       | Ctrl+N             |
+| **Open File**          | Ctrl+O             |
+| **Save**               | Ctrl+S             |
+| **Save As**            | Ctrl+Shift+S       |
+| **Print**              | Ctrl+P             |
+| **Close File**         | Ctrl+W             |
+| **Quit**               | Ctrl+Q             |
+| **Undo**               | Ctrl+Z             |
+| **Redo**               | Ctrl+Shift+Z       |
+| **Cut**                | Ctrl+X             |
+| **Copy**               | Ctrl+C             |
+| **Paste**              | Ctrl+V             |
+| **Select All**         | Ctrl+A             |
+| **Delete**             | Delete             |
+| **Find**               | Ctrl+F             |
+| **Find Next**          | F3                 |
+| **Find Previous**      | Shift+F3           |
+| **Replace**            | Ctrl+R             |
+| **Go to Line**         | Ctrl+G             |
+| **Toggle Insert/Overwrite** | Insert        |
+| **Toggle Auto Indent** | F8                 |
+| **Toggle Line Numbers**| F11                |
+| **Toggle Line Marks**  | F9                 |
+| **Toggle Right Margin**| F7                 |
+| **Select Font**        | F6                 |
+| **Help**               | F1                 |
 
 ## 🚀 Version
-2.1.2 (alpha)
+**2.1.2 (alpha)**
 
-Note: This is the only version available in this repository. Older versions are not included.
+> Only the latest version is uploaded in this repository.
 
 ## 📋 Changelog
-2.1.2 (alpha)
-Fixed compatibility issue with Python 2.6
-
-Fixed icon/image loading bugs
-
-Updated installer to support uninstall process
+**2.1.2 (alpha)**
 
 See full changelog in [ChangeLog](ChangeLog)
 
