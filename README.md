@@ -21,13 +21,10 @@
   ```
 
 ## 🧭 Interface Overview
-Menubar – Full command access
-
-Toolbar – Quick access to frequently used actions
-
-Display area – The main editor window
-
-Statusbar – Shows cursor position, edit mode (INS/OVR), and contextual info
+- Menubar – Full command access
+- Toolbar – Quick access to frequently used actions
+- Display area – The main editor window
+- Statusbar – Shows cursor position, edit mode (INS/OVR), and contextual info
 
 ## ⌨️ Keyboard Shortcuts
 
