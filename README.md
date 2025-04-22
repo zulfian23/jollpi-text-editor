@@ -31,8 +31,8 @@ bash install.sh
 
 Make sure Python and the required GTK dependencies are installed. For more details, see the INSTALL file.
 
-📋 Changelog
+## 📋 Changelog
 See ChangeLog
 
-📄 License
+## 📄 License
 See LICENSE
