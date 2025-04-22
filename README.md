@@ -63,8 +63,6 @@
 > Only the latest version is uploaded in this repository.
 
 ## 📋 Changelog
-**2.1.2 (alpha)**
-
 See full changelog in [ChangeLog](ChangeLog)
 
 ## 📦 Installation
