@@ -17,7 +17,7 @@
 - Full undo/redo, clipboard support (cut/copy/paste)
 - Accessible via command line:  
   ```bash
-  $ jollpi
+  jollpi
   ```
 
 ## 🧭 Interface Overview
