@@ -71,7 +71,8 @@ See full changelog in [ChangeLog](ChangeLog)
 Run the provided script on any Linux-based system:
 
 ```bash
-bash install.sh
+chmod +x install.sh
+./install.sh
 ```
 
 Make sure Python and GTK dependencies are installed. For details, see [INSTALL](INSTALL).
