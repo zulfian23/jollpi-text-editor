@@ -17,7 +17,8 @@
 - Full undo/redo, clipboard support (cut/copy/paste)
 - Accessible via command line:  
   ```bash
-  $ jollpi```
+  $ jollpi
+  ```
 
 ## 🧭 Interface Overview
 Menubar – Full command access
@@ -29,6 +30,7 @@ Display area – The main editor window
 Statusbar – Shows cursor position, edit mode (INS/OVR), and contextual info
 
 ## ⌨️ Keyboard Shortcuts
+
 Action | Shortcut
 New | Ctrl+N
 Open | Ctrl+O
