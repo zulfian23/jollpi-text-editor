@@ -52,8 +52,8 @@ Help / About | F1 / -
 Insert key toggles between Insert and Overwrite mode.
 
 ## 🚀 Version
+2.1.2 (alpha)
 
-**2.1.2 (alpha)**
 Note: This is the only version available in this repository. Older versions are not included.
 
 ## 📋 Changelog
