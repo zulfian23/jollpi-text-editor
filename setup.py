@@ -33,7 +33,6 @@ setup(
 	version = '2.1.2',
 	description = 'Simple but usefull text editor',
 	author = 'Zulfian',
-	author_email = 'fianmyung@gmail.com',
 	license = 'GPL',
     	packages = ['jollpi'],
 	package_data = {'jollpi' : files },
