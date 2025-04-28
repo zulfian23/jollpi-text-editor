@@ -2,7 +2,7 @@ Installation Instructions
 =========================
 
 Required libraries:
- - python
+ - python2
  - python-gtk2
  - python-gtksourceview2
  - pango
