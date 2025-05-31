@@ -10,7 +10,7 @@
 - Syntax highlighting for C/C++, Java, Python, Perl, Bash, and more (using GtkSourceView)
 - File modification detection (external changes)
 - Find, Find Next/Previous, Replace, and Go to Line
-- Auto indent, line numbers, line marks, and right margin display
+- Auto indent, Auto bracket, line numbers, line marks, and right margin display
 - Font customization (family, size, style)
 - Print and page setup support
 - Wrap mode and theme switching
