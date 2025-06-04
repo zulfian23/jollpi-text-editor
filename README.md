@@ -2,6 +2,9 @@
 
 **Jollpi** is a lightweight, feature-rich text editor built using Python and GTK. Originally developed as a college final project in 2010, Jollpi is designed to be simple, fast, and useful for programmers working on Linux systems.
 
+👉 **Jollpi** was originally hosted on SourceForge in 2011. You can still access the original project page here:  
+[https://sourceforge.net/projects/jollpi](https://sourceforge.net/projects/jollpi)
+
 ![screenshot](screenshot.png)
 
 ## ✨ Features
