@@ -1,5 +1,8 @@
 # Jollpi
 
+> ⚠️ **Note:** This repository is for the legacy Python 2 / GTK 2 version (Jollpi 2.x).  
+> The modern Python 3 / GTK 4 version is available here: [Jollpi 3 on GitHub](https://github.com/username/jollpi3)
+
 **Jollpi** is a lightweight, feature-rich text editor built using Python and GTK. Originally developed as a college final project in 2010, Jollpi is designed to be simple, fast, and useful for programmers working on Linux systems.
 
 👉 **Jollpi** was originally hosted on SourceForge in 2011. You can still access the original project page here:  
@@ -70,9 +73,7 @@ For detailed changes, see the [ChangeLog](ChangeLog).
 | **Help**               | F1                 |
 
 ## 🚀 Version
-**2.1.2 (alpha)**
-
-> Only the latest version is uploaded in this repository.
+**2.1.3**
 
 ## 📦 Installation
 
@@ -88,6 +89,11 @@ Make sure Python and GTK dependencies are installed. For details, see [INSTALL](
 ## 👨‍💻 Author
 
 Zulfian
+
+If you find **Jollpi** useful and want to support future updates, you can make a small contribution here:  
+[**Send support via Wise**](https://wise.com/received/jollpi)
+
+Your support helps keep the project maintained and compatible with modern Linux environments. ❤️
 
 ## 📄 License
 See [LICENSE](LICENSE)
