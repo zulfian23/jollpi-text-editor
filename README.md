@@ -30,7 +30,7 @@ For detailed changes, see the [ChangeLog](ChangeLog).
 - Full undo/redo, clipboard support (cut/copy/paste)
 - Accessible via command line:  
   ```bash
-  jollpi
+  jollpi2
   ```
 
 ## 🧭 Interface Overview
