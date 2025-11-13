@@ -11,10 +11,7 @@
 
 ## 🆕 Latest Version
 
-The latest release, **Jollpi 2.1.3**, is now hosted on GitLab:  
-[https://gitlab.com/username/jollpi](https://gitlab.com/username/jollpi)
-
-This release focuses on maintaining compatibility with **Python 2** and **GTK 2**, targeting modern Linux distributions (such as Manjaro and Arch Linux) that still provide **legacy Python 2 packages through AUR**.  
+The latest release, **Jollpi 2.1.3**, focuses on maintaining compatibility with **Python 2** and **GTK 2**, targeting modern Linux distributions (such as Manjaro and Arch Linux) that still provide **legacy Python 2 packages through AUR**.  
 It includes updated shebangs, revised installer scripts, and minor fixes for system integration.
 For detailed changes, see the [ChangeLog](ChangeLog).
 
