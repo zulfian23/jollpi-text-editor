@@ -89,7 +89,7 @@ Make sure Python and GTK dependencies are installed. For details, see [INSTALL](
 Zulfian
 
 If you find **Jollpi** useful and want to support future updates, you can make a small contribution here:  
-[**Send support via Wise**](https://wise.com/received/jollpi)
+[**Send support via Ko-fi**](https://ko-fi.com/zulfian1732)
 
 Your support helps keep the project maintained and compatible with modern Linux environments. ❤️
 
