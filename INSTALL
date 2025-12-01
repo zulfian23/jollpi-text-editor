@@ -2,7 +2,7 @@ Installation Instructions
 =========================
 
 Required libraries:
- - python2
+ - python
  - python-gtk2
  - python-gtksourceview2
  - pango
@@ -11,16 +11,12 @@ Required libraries:
    if gio libraries is not include in python-gobject, following libraries is required:
      * gnomevfs
 
-Download jollpi style at http://sourceforge.net/projects/jollpischeme/
-then copy the jollpi.xml file which resides in the package to directory style of your gtksourceview library. This will
-display the jollpi style scheme.
-
 to install Jollpi:
 ==================
 
-$ tar xjf jollpi-2.1.2.tar.bz2
-$ cd jollpi-2.1.2
-$ chmod + x install.sh -i
+$ git clone https://gitlab.com/zulfian1732/jollpi2-legacy.git
+$ cd jollpi2-legacy
+$ chmode +x install.sh
 $ ./install.sh -i
 
 to uninstall Jollpi:
@@ -31,4 +27,4 @@ $ ./install.sh -u
 to run Jollpi:
 ==============
 
-$ jollpi
+$ jollpi2
