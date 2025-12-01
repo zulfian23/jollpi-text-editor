@@ -11,11 +11,22 @@
 
 ## 🆕 Latest Version
 
-The latest release, **Jollpi 2.1.3**, focuses on maintaining compatibility with **Python 2** and **GTK 2**, targeting modern Linux distributions (such as Manjaro and Arch Linux) that still provide **legacy Python 2 packages through AUR**.  
-It includes updated shebangs, revised installer scripts, and minor fixes for system integration.
+The latest release, **Jollpi 2.1.3**, focuses on maintaining compatibility with **Python 2** and **GTK 2**, targeting modern Linux distributions (such as Manjaro and Arch Linux) that still provide **legacy Python 2 packages through AUR**.
+
+Most required components — including **Python 2**, **GTK 2**, **PyGTK**, and **GtkSourceView 2** — remain accessible. However, **PyGtkSourceView 2 is no longer available in AUR**, and now requires manual installation from GNOME’s archived sources:
+
+🔗 **PyGtkSourceView 2 Source Archive:**  
+https://download.gnome.org/sources/pygtksourceview/2.10/
+
+This release includes updated shebangs, revised installer scripts, and minor fixes for system integration.
 For detailed changes, see the [ChangeLog](ChangeLog).
 
 ![screenshot](screenshot.png)
+
+📹 **Demo Video**
+
+A short demo showing Jollpi 2.1.3 running on Manjaro XFCE (Python2 + GTK2 environment):  
+https://youtu.be/clwNFtF73BQ
 
 ## ✨ Features
 
