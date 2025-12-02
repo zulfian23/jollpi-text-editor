@@ -25,8 +25,13 @@ For detailed changes, see the [ChangeLog](ChangeLog).
 
 📹 **Demo Video**
 
-A short demo showing Jollpi 2.1.3 running on Manjaro XFCE (Python2 + GTK2 environment):  
-https://youtu.be/clwNFtF73BQ
+- **Jollpi2 on Manjaro XFCE**  
+  Legacy build running using older packages from AUR.  
+  ▶ https://youtu.be/clwNFtF73BQ  
+
+- **Jollpi2 on Manjaro GNOME**  
+  Same legacy setup (AUR packages), but tested on GNOME with a 1,000,000-line file using synchronous buffer loading (`set_text()`).  
+  ▶ https://youtu.be/TWAp4wiRy14  
 
 ## ✨ Features
 
